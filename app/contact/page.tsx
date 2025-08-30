@@ -51,7 +51,7 @@ const ContactPage = () => {
                   />
                 </svg>
               </div>
-              <span>theteusviana@gmail.com</span>
+              <span>joaotavarespcz@gmail.com</span>
             </div>
 
             <div className="flex items-center border border-gray-500 p-3">

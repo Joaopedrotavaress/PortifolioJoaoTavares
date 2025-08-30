@@ -5,8 +5,8 @@ import React, { useState, useEffect } from 'react';
 const ResumePage = () => {
 const [visiblePdf, setVisiblePdf] = useState<string | null>(null); 
 
-const pdfPortuguesUrl = '/pdfs/curriculo_portugues.pdf';
-const pdfInglesUrl = '/pdfs/curriculo_ingles.pdf';
+const pdfPortuguesUrl = '/pdfs/Curriculo - João Pedro Tavares e Amorim.pdf';
+const pdfInglesUrl = '/pdfs/curriculo ingles.pdf';
 
 const handleButtonClick = (pdfType: 'portugues' | 'ingles') => {
   setVisiblePdf(pdfType);

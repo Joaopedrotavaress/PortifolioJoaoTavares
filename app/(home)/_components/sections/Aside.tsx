@@ -10,11 +10,11 @@ const Aside = () => {
   return (
     <aside className="flex flex-col items-center lg:sticky lg:top-[var(--navbar-height)] lg:h-[calc(100vh-var(--navbar-height))] pt-10 bg-white text-black m-1 p-1 dark:bg-black dark:text-slate-50 transition-colors duration-200">
       <img
-        src="/images/Gaston.jpg"
-        alt="Matheus Gaston"
+        src="/images/fotoperfil.JPG"
+        alt="João Pedro Tavares "
         className="rounded-full outline-1 outline-offset-4 drop-shadow-lg drop-shadow-black w-2/3"
       />
-      <h1 className="text-lg font-bold p-2 text-center">Matheus Gaston</h1>
+      <h1 className="text-lg font-bold p-2 text-center">João Pedro Tavares </h1>
       <h2 className="text-sm text-center">{translations.softwareEngineer}</h2>
       <div className="flex flex-col items-center p-2 w-full max-lg:hidden">
         <Link

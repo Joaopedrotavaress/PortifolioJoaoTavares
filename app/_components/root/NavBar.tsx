@@ -60,7 +60,7 @@ const NavBar = () => {
           "text-black": theme === "light",
         })}
       >
-        Matheus Gaston
+        João Pedro Tavares
       </Link>
       <ul className="hidden md:flex space-x-6">
         {links.map((link) => (
