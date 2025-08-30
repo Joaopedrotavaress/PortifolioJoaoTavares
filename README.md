@@ -1,4 +1,4 @@
-# Matheus Gaston – Personal Portfolio
+# João Pedro Tavares – Personal Portfolio
 
 Bem-vindo ao meu **portfólio pessoal**! 
 
@@ -11,8 +11,8 @@ Confira em: <a href="https://portifolio-joao-tavares.vercel.app" target="_blank"
 
 * Clone o repositório e instale as dependências.
 ```bash
-  git clone https://github.com/GastonZinhow/gastondev.git
-  cd gastondev
+  git clone https://github.com/Joaopedrotavaress/PortifolioJoaoTavares.git
+  cd PortifolioJoaoTavares
   npm install
 ```
 * Inicie o servidor de desenvolvimento
